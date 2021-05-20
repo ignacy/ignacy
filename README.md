@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/[ignacy])
+![Profile views](https://gpvc.arturio.dev/ignacy)
